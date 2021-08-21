@@ -8,3 +8,4 @@
 <h2> Newchanges to check deployment on docker server 20:12p.m 20th aug </h2>
 <h2> checking with jenkins on docker server deployment 22.04 p.m 20th aug</h2>
 <h2> checking with jenkins with scm poll on docker server deployment 22.04 p.m 20th aug</h2>
+<h2> CI/CD Checking 14.10p.m 21st Aug</h2>
